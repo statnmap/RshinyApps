@@ -21,7 +21,7 @@ You may see it in action on [my shinyapp repository](https://sebrock.shinyapps.i
 
 ![Screenshot-On/Off-Rshiny-Switch-Button](https://github.com/sebrockfr/RshinyApps/blob/master/On-Off_SwitchButton/Screenshot.jpg)
 
-_CSS code of this app was modified from [https://proto.io/freebies/onoff/](https://proto.io/freebies/onoff/) _
+_CSS code of this app was modified from [https://proto.io/freebies/onoff/](https://proto.io/freebies/onoff/)_
 
-_More on my website: [Freelance - Courses and consulting in modeling with R](http://sebrock.fr/en/courses-formation-sig-dans-r-et-qgis/) _
+_More on my website: [Freelance - Courses and consulting in modeling with R](http://sebrock.fr/en/courses-formation-sig-dans-r-et-qgis/)_
 
