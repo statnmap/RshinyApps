@@ -18,8 +18,6 @@ library(shiny)
 source("./Rsource/SwitchButton.R")
 
 shinyUI(fluidPage(theme = "button.css",
-  # You are tracked on google analytics
-  tags$head(includeScript("./js/google-analytics.js")),
 
   # Application title
   headerPanel("Customised TRUE-FALSE switch button for Rshiny"),
