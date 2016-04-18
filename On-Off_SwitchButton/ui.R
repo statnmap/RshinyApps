@@ -12,6 +12,21 @@
 # CSS3 code was modified from https://proto.io/freebies/onoff/
 # For CSS3 customisation, refer to this website.
 
+# switchButton() function
+#' A function to change the Original checkbox of rshiny
+#' into a nice true/false or on/off switch button
+#' No javascript involved. Only CSS code.
+#' 
+#' To be used with CSS script 'button.css' stored in a 'www' folder in your Shiny app folder
+#' 
+#' @param inputId The input slot that will be used to access the value.
+#' @param label Display label for the control, or NULL for no label.
+#' @param value Initial value (TRUE or FALSE).
+#' @param col Color set of the switch button. Choose between "GB" (Grey-Blue) and "RG" (Red-Green)
+#' @param type Text type of the button. Choose between "TF" (TRUE - FALSE), "OO" (ON - OFF) or leave empty for no text.
+#'
+#' See examples below
+
 library(shiny)
 
 # Source the switch button function
