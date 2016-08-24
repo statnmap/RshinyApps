@@ -2,7 +2,7 @@
 # Only sing CSS3 code (No javascript)
 #
 # Sébastien Rochette
-# http://sebrock.fr/en/
+# http://statnmap.com/en/
 # April 2016
 #
 # CSS3 code was found on https://proto.io/freebies/onoff/
@@ -27,14 +27,15 @@ switchButton <- function(inputId, label, value=FALSE, col = "GB", type="TF") {
     stop("Please choose a color between \"RG\" (Red-Green) 
       and \"GB\" (Grey-Blue).")
   }
-  if (type != "OO" & type != "TF"){
-   warning("No known text type (\"OO\" or \"TF\") have been specified, 
+  if (!type %in% c("OO", "TF", "YN")){
+   warning("No known text type (\"OO\", \"TF\" or \"YN\") have been specified, 
      button will be empty of text") 
   }
   if(col == "RG"){colclass <- "RedGreen"}
   if(col == "GB"){colclass <- "GreyBlue"}
   if(type == "OO"){colclass <- paste(colclass,"OnOff")}
   if(type == "TF"){colclass <- paste(colclass,"TrueFalse")}
+  if(type == "YN"){colclass <- paste(colclass,"YesNo")}
   
   # No javascript button - total CSS3
   # As there is no javascript, the "checked" value implies to
@@ -76,3 +77,4 @@ switchButton <- function(inputId, label, value=FALSE, col = "GB", type="TF") {
     ) 
   }
 }
+

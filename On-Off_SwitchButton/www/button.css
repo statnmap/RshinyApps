@@ -94,6 +94,14 @@ body {
 .OnOff .onoffswitch-inner:after {
   content: "OFF";
 }
+/* Yes / No */
+.YesNo .onoffswitch-inner:before {
+  content: "YES";
+}
+
+.YesNo .onoffswitch-inner:after {
+  content: "NO";
+}
 /* True / False */
 .TrueFalse .onoffswitch-inner:before {
   content: "TRUE";

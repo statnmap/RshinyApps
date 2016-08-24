@@ -25,11 +25,11 @@ shinyUI(fluidPage(theme = "button.css",
 ))
 ```
 
-You may see it in action on [my shinyapp repository](https://sebrock.shinyapps.io/On-Off_SwitchButton/).
+You may see it in action on [my shinyapp repository](https://statnmap.shinyapps.io/On-Off_SwitchButton/).
 
-![Screenshot-On/Off-Rshiny-Switch-Button](https://github.com/sebrockfr/RshinyApps/blob/master/On-Off_SwitchButton/Screenshot.jpg)
+![Screenshot-On/Off-Rshiny-Switch-Button](https://github.com/statnmap/RshinyApps/blob/master/On-Off_SwitchButton/Screenshot.jpg)
 
 _CSS code of this app was modified from [https://proto.io/freebies/onoff/](https://proto.io/freebies/onoff/)_
 
-_More on my website: [Freelance - Courses and consulting in modeling with R](http://sebrock.fr/en/courses-formation-sig-dans-r-et-qgis/)_
+_More on my website: [Freelance - Courses and consulting in modeling with R](http://statnmap/en/courses-formation-sig-dans-r-et-qgis/)_
 

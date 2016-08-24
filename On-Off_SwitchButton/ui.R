@@ -2,7 +2,7 @@
 # Only sing CSS3 code (No javascript)
 #
 # Sébastien Rochette
-# http://sebrock.fr/en/
+# http://statnmap.com/en/
 # April 2016
 #
 # Instruction :
@@ -51,11 +51,11 @@ shinyUI(fluidPage(theme = "button.css",
             ),
             br(),
             p("This shiny On/Off switch button has been proposed by",
-              a(href = "http://sebrock.fr/","Sébastien Rochette"),
+              a(href = "http://statnmap.com/","StatnMap - Formation et consultance"),
               br(), "This RShiny app is available on my",
-              a(href = "https://github.com/sebrockfr/RshinyApps/tree/master/On-Off_SwitchButton",
+              a(href = "https://github.com/statnmap/RshinyApps/On-Off_SwitchButton",
                 "github account."),br(),
-            "More on my website : ", a(href = "http://sebrock.fr/","http://sebrock.fr"))
+            "More on my website : ", a(href = "http://statnmap.com/","http://statnmap.com"))
             
           )
         ),

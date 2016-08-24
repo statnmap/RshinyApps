@@ -2,7 +2,7 @@
 # Only sing CSS3 code (No javascript)
 #
 # Sébastien Rochette
-# http://sebrock.fr/en/
+# http://statnmap.com/en/
 # April 2016
 
 library(shiny)
