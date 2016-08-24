@@ -10,5 +10,5 @@ The 'switchButton' function includes two options:
 
 ![Screenshot-On/Off-Rshiny-Switch-Button](https://github.com/sebrockfr/RshinyApps/blob/master/On-Off_SwitchButton/Screenshot.jpg)
 
-_More on my website: [Freelance - Courses and consulting in modeling with R](http://sebrock.fr/en/courses-formation-sig-dans-r-et-qgis/)_
+_More on my website: [Freelance - Courses and consulting in modeling with R](http://statnmap.com/courses-formation-sig-dans-r-et-qgis/)_
 
