@@ -31,5 +31,5 @@ You may see it in action on [my shinyapp repository](https://statnmap.shinyapps.
 
 _CSS code of this app was modified from [https://proto.io/freebies/onoff/](https://proto.io/freebies/onoff/)_
 
-_More on my website: [Freelance - Courses and consulting in modeling with R](http://statnmap/en/courses-formation-sig-dans-r-et-qgis/)_
+_More on my website: [Freelance - Courses and consulting in modeling with R](https://statnmap.com/en/courses-formation-sig-dans-r-et-qgis/)_
 
